@@ -1,0 +1,26 @@
+{
+  "name": "coderetreat-2020",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jsmadja/coderetreat-2020.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jsmadja/coderetreat-2020/issues"
+  },
+  "homepage": "https://github.com/jsmadja/coderetreat-2020#readme",
+  "devDependencies": {
+    "jest": "^26.6.3",
+    "nodemon": "^2.0.6"
+  },
+  "dependencies": {
+    "lodash": "^4.17.20"
+  }
+}
